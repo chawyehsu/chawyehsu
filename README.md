@@ -1,11 +1,13 @@
 ## Chawye Hsu 👋
 [![Twitter Badge](https://img.shields.io/badge/-@chawyehsu-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/chawyehsu)](https://twitter.com/chawyehsu) 
+[![Instagram Badge](https://img.shields.io/badge/-@chawyehsu-c13584?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/chawyehsu)](https://instagram.com/chawyehsu) 
+[![Telegram Badge](https://img.shields.io/badge/-@chawyehsu-0088cc?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/s/chawyehsu)](https://t.me/s/chawyehsu) 
 
 - **Working :** Currently working on my full-time Data Analyst job 🔭
 - **Learning :** Languages, not only PL, but also NL 📖
 - **Playing :** Minecraft, Roguelike Games and Retro Games 🎮
 - **Listening :** Different genres of music, currently looping Aimer's songs 🎵
-- **How to reach me :** via SNS, or send email to chawyehsu@hotmail.com 📫
+- **How to reach me :** via SNS (badges above), or email to chawyehsu@hotmail.com 📫
 - **Fun fact :** I transfer tea, instead of coffee, into codes 🤔
 
 <!--
