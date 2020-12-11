@@ -8,7 +8,7 @@
 - **Learning :** Photography, Japanese Language 📖
 - **Playing :** Retro Games, Roguelike Games and Minecraft 🎮
 - **Listening :** Currently looping Aimer's songs and city-pop music 🎵
-- **How to reach me :** via SNS (badges above), or email to chawye.hsu@outlook.com 📫
+- **How to reach me :** via SNS (badges above), or email to chawyehsu@hotmail.com 📫
 - **Fun fact :** I transfer tea, instead of coffee, into codes 🤔
 
 <!--
