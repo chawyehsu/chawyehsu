@@ -9,9 +9,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=chawyehsu&count_private=true&show_icons=true&bg_color=ffffff00&text_color=666666&&hide_border=true" width="360" alt="GitHub Stats" align="right" />
 
-- **Working :** AVAILABLE FOR HIRE 🔭
-- **Learning :** Photography, Japanese Language 📖
-- **Playing :** Retro Games, Roguelike Games and Minecraft 🎮
-- **Listening :** Currently looping Aimer's songs and city-pop music 🎵
-- **How to reach me :** via SNS (badges above), or send e-mail to me 📫
-- **Fun fact :** I transfer tea, instead of coffee, into codes 🤔
+<samp>
+  <ul>
+    <li><strong>Working: </strong>AVAILABLE FOR HIRE 🔭</li>
+    <li><strong>Learning: </strong>Photography, Japanese Language 📖</li>
+    <li><strong>Playing: </strong>Retro Games, Roguelike Games and Minecraft 🎮</li>
+    <li><strong>Listening: </strong>Currently looping Aimer's songs and citypop music 🎵</li>
+    <li><strong>How to reach me: </strong>via SNS (listed above), or send email to me 📫</li>
+    <li><strong>Fun fact: </strong>I transfer tea, instead of coffee, into codes 🤔</li>
+  </ul>
+</samp>
