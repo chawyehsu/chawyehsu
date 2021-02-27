@@ -12,10 +12,10 @@
 <samp>
   <ul>
     <li><strong>Working: </strong>AVAILABLE FOR HIRE 🔭</li>
-    <li><strong>Learning: </strong>Photography, Japanese Language 📖</li>
-    <li><strong>Playing: </strong>Retro Games, Roguelike Games and Minecraft 🎮</li>
-    <li><strong>Listening: </strong>Currently looping Aimer's songs and citypop music 🎵</li>
-    <li><strong>How to reach me: </strong>via SNS (listed above), or send email to me 📫</li>
+    <li><strong>Listening: </strong>mostly Aimer's songs and citypop music 🎵</li>
+    <li><strong>Playing: </strong>retro games, roguelike games and Minecraft 🎮</li>
+    <li><strong>Learning: </strong>Photography and Japanese sometimes 📖</li>
+    <li><strong>Contact: </strong>via SNS (listed above), or send email to me 📫</li>
     <li><strong>Fun fact: </strong>I transfer tea, instead of coffee, into codes 🤔</li>
   </ul>
 </samp>
