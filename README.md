@@ -5,7 +5,7 @@
     <a href="https://instagram.com/chawyehsu">instagram</a> -
     <a href="https://t.me/s/chawyehsu">telegram</a> -
     <a href="https://music.163.com/#/user/home?id=35631431">playlist</a> -
-    <a href="https://github.com/chawyehsu/sponsor">sponsors</a>
+    <a href="https://github.com/chawyehsu/sponsors">sponsors</a>
   </samp>
 </p>
 
