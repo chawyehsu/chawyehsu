@@ -14,7 +14,7 @@
 
 <samp>
   <ul>
-    <li><strong>Working: </strong>out of work</li>
+    <li><strong>Working: </strong>for my life</li>
     <li><strong>Listening: </strong>mostly Aimer's songs and citypop music 🎵</li>
     <li><strong>Playing: </strong>retro games, roguelike games and Minecraft 🎮</li>
     <li><strong>Learning: </strong>photography and Japanese language sometimes 📖</li>
