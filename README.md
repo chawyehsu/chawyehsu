@@ -5,7 +5,7 @@
     <a href="https://twitter.com/chawyehsu">twitter</a> -
     <a href="https://instagram.com/chawyehsu">instagram</a> -
     <a href="https://unsplash.com/@chawyehsu">unsplash</a> -
-    <a href="https://njump.me/chawyehsu.com">nostr</a> -
+    <a href="https://wakatime.com/@chawyehsu">wakatime</a> -
     <a href="https://music.163.com/#/user/home?id=35631431">playlist</a>
   </samp>
 </p>
